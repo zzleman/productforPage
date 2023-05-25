@@ -1,0 +1,20 @@
+img{
+    height: 150px;
+    width:250px;
+}
+#mainPage{
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-around;
+}
+.product{
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+#all-p{
+    font-weight: 900;
+    font-size: 35px;
+    text-align: center;
+}
